@@ -11,7 +11,7 @@
 <a href="https://www.facebook.com/ZamranxD">
   <img align="left" alt="Zamran's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet" align="left">
+<img src="https://komarev.com/ghpvc/?username=aliya-rahmani&color=blueviolet" align="left">
 
 
 
