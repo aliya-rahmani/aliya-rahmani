@@ -88,4 +88,42 @@
   </span>
 <img src="https://github-readme-stats.vercel.app/api?username=aliya-rahmani&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Aliya's GitHub Stats">
 
+##
+<h3><b><samp>Tools and Platform</samp></b></h3>
+
+![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Qwiklabs](https://img.shields.io/badge/Qwiklabs-F5CD0E?style=flat-square&logo=Qwiklabs&logoColor=800000)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
+![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)
+![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
+![CodeForces](https://img.shields.io/badge/Codeforces-4285F4?style=flat-square&logo=Codeforces&logoColor=white)
+
+  
+<span>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/git-icon.svg" alt="drawing" width="40"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/google-cloud-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/hackerrank.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/heroku-4.svg" alt="drawing" width="40"/>
+</span>
+<hr> 
+### 🏆 GitHub Profile Trophy:
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=aliya-rahmani&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+</a>
+</p>
+
+### 📈 GitHub Activity:
+  <a href="https://github.com/aliya-rahmani/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aliya-rahmani&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+</p>
+
+<br>  
+
 ⭐️ From [AliyaRahmani](https://github.com/aliya-rahmani)
