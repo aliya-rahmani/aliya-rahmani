@@ -17,17 +17,16 @@
 </a>
 <br><br>
 <a href="http://aliyarahmani.tech/">
-  <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/Portfolio-2EC866?style=for-the-badge&logo=Portfolio&logoColor=black" />
+  <img align="left" alt="AR's portfolio" width="100px" src="https://img.shields.io/badge/Portfolio-2EC866?style=for-the-badge&logo=Portfolio&logoColor=black" />
 </a>
 
 <a href="mailto:aliyarahmani786@gmail.com">
-  <img align="left" alt="akd's codechef" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+  <img align="left" alt="AR's email" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 <br><br>
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
-
-##
-
+<a>
+  <img alt="drawing"  src="https://github.com/aliya-rahmani/aliya-rahmani/blob/main/header_.png" />
+</a>
 <br />
 <br />
 
@@ -74,11 +73,9 @@
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/php-1.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/readme.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/html.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/css.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/linux.svg" alt="drawing" width="50"/>
   </span>
 <img src="https://github-readme-stats.vercel.app/api?username=aliya-rahmani&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Aliya's GitHub Stats">
 
