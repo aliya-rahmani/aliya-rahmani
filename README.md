@@ -6,13 +6,13 @@
 <a href="https://www.linkedin.com/in/aliya-rahmani-3a45431b5/">
   <img align="left" alt="AR's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/amandewatnitrr">
+<a href="https://github.com/aliya-rahmani">
   <img align="left" alt="AR's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/akd_beast_slayer/">
+<a href="https://www.instagram.com/aliya_rahmani786/">
   <img align="left" alt="AR's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.qwiklabs.com/public_profiles/d9014880-0e88-42ad-abee-5e6e5e380de5">
+<a href="https://google.qwiklabs.com/public_profiles/1c4ae262-2f77-4ea1-b3dd-67c069b18cc6">
   <img align="left" alt="akd's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
 </a>
 <br><br>
@@ -20,12 +20,6 @@
   <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/Portfolio-2EC866?style=for-the-badge&logo=Portfolio&logoColor=black" />
 </a>
 
-<!-- <a href="https://www.hackerrank.com/amandewatnitrr?hr_r=1">
-  <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
-</a>
-<a href="https://www.codechef.com/users/amandewatnitrr">
-  <img align="left" alt="akd's codechef" width="100px" src="https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
-</a> -->
 <a href="mailto:aliyarahmani786@gmail.com">
   <img align="left" alt="akd's codechef" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
@@ -44,12 +38,12 @@
 
 **About Me!**
 
-- 👨🏽‍💻 Currently and undergraduate from National Institute Of Technology, Bhopal
+- 👨🏽‍💻 Currently an undergraduate from Maulana Azad National Institute Of Technology, Bhopal
 - 🌱 I’m recently exploring Python and ML libraries like Tensorflow, Pytorch etc. 
 - 🤔 My interests include Web Development, Blockchain applications and developing some useful and cool stuff xD
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [aliyarahmani786@gmail.com](mailto:aliyarahmani786@gmail.com).
-- 📝 See my [Curriculum Vitae]https://drive.google.com/file/d/1shpKjc104aDBMZXJJ1ZhKd6rXgjV84yQ/view?usp=sharingg) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1shpKjc104aDBMZXJJ1ZhKd6rXgjV84yQ/view?usp=sharingg) to get more info.
 
 
 <div>
@@ -112,6 +106,8 @@
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/heroku-4.svg" alt="drawing" width="40"/>
 </span>
 <hr> 
+
+  
 ### Github Stats
   
 <p align="center">
