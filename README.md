@@ -135,7 +135,7 @@
 ##
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/amandewatnitrr/count.svg" />
+  <img src="https://profile-counter.glitch.me/aliya-rahmani/count.svg" />
 </p>
 
 ⭐️ From [AliyaRahmani](https://github.com/aliya-rahmani)
